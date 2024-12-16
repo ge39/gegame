@@ -29,13 +29,16 @@ export default function Navbar() {
           <Link href="/gamelist">Jogue Online</Link>
         </li>
         <li>
-          <Link href="/orcamento">Orçamento</Link>
+          <Link href="/#orcamento">Fale Conosco</Link>
         </li>
         <li>
-          <Link href="/locacao">Locação</Link>
+          <Link href="/#locacao">Locação</Link>
         </li>
         <li>
-          <Link href="/sobre">Sobre</Link>
+            <Link href="/#eventos">Eventos</Link>
+        </li>
+        <li>
+          <Link href="/#sobre">Sobre</Link>
         </li>
       </ul>
     </nav>
