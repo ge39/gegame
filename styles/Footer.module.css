@@ -5,7 +5,7 @@
   /* margin-top:3px; */
   text-align: center;
   padding: 5px 0;
-  position: fixed;
+  position: relative;
   width:100%;
   font-size: 0.9rem;
   bottom:0;
@@ -19,3 +19,16 @@
 .footer a:hover {
   text-decoration: underline;
 }
+@media (max-width: 678px) {
+  .footer{
+    font-size: 12px;
+  }
+  
+}
+@media (max-width: 190px) {
+  .footer{
+    font-size: 10px;
+  }
+  
+}
+
