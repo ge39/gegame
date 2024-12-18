@@ -32,7 +32,7 @@ export default function Navbar() {
           <Link href="/#orcamento">Fale Conosco</Link>
         </li>
         <li>
-          <Link href="/#locacao">Locação</Link>
+          <Link href="/#nosso-plano">Nossos Planos</Link>
         </li>
         <li>
             <Link href="/#eventos">Eventos</Link>
